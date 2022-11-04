@@ -1,6 +1,6 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Bb3sljHYj8-tUFcpokVzRcfm0g0npnn6heiHDbPzZjEvyiLgapifPl0ja6dtgJvHwx88NHgiXHYAbEDMDC4Vd66hQ_8_avWcLSbBikbae_X6rNpyPoBvdHw-sMAVjx8v0E1oY8BQ_5SpYGYrOpiAm3oKQydkkfmh-ybopesW6O30YtmtT6O-ezbi7Q/w945-h600-p-k-no-nu/Black%20Technology%20LinkedIn%20Banner%20(1).jpg)](https://jegadesh213.io)
-<h1 align="center">Hi 👋, I'm Jegadesh B</h1>
-<h3 align="center">19-WebDev-Chennai</h3>
+<h1 align="center">Lets Code!</h1>
+<h3 align="center">I am a 19 year old Webdev,currently pursuing my bachelor's on ECE at St Joseph Institute of Technology,Chennai</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 - 👨‍💻 All of my projects are available at [jegadesh213github.io](jegadesh213github.io)
