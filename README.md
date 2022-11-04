@@ -29,8 +29,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jegadesh213&show_icons=true&locale=en&layout=compact" alt="jegadesh213" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jegadesh213&" alt="jegadesh213" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jegadesh213&" alt="jegadesh213" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jegadesh213&show_icons=true&locale=en" alt="jegadesh213" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jegadesh213&show_icons=true&locale=en" alt="jegadesh213" /></p>
 
 ![snake gif](https://github.com/jegadesh213/jegadesh213/blob/output/github-contribution-grid-snake.gif)
