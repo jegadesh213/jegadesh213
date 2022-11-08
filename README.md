@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [jegadesh213github.io](jegadesh213github.io)
 
+- 📝 I regularly write articles on [https://jegadeshb.netlify.app/](https://jegadeshb.netlify.app/)
+
 - 💬 Ask me about **HTML,CSS,JavaScript,C,Java**
 
 - 📫 How to reach me **jegadesh213@gmail.com**
